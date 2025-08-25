@@ -1,0 +1,7 @@
+{
+  "name": "sleep-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "echo 'App disabled - no dynos running'"
+  }
+}

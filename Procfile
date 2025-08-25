@@ -1,0 +1,1 @@
+web: echo "App disabled - no dynos running"
